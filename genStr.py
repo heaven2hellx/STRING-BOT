@@ -162,7 +162,7 @@ Must Join Channel for Bot Updates !!
                 InlineKeyboardButton('Developer', url='https://t.me/SimpleBoy787')
             ],
             [
-                InlineKeyboardButton('Support', url='https://t.me/mrdark_genuine'),
+                InlineKeyboardButton('Support', url='https://t.me/Shasa_Support'),
             ]
         ]
     )
