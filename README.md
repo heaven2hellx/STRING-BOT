@@ -2,7 +2,7 @@
 Generate Pyrogram String Session Using this bot.
 
 ## Bot Link:
-<a href="https://t.me/pyrogram_string_genrobot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/ShasaString_Bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 
 ## Configs:
 - API_HASH
@@ -17,13 +17,13 @@ Generate Pyrogram String Session Using this bot.
   - Telegram Bot Token from [here](https://t.me/BotFather).
 
 ## Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/satyanandatripathi/TG-String-Session/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MdNoor786/StringGen/tree/main)
 
 
-#### Developers
-- [Avika](https://t.me/avika_5555)
-- [Krishna Singhal](https://github.com/Krishna-Singhal)
-- [Abir Hasan](https://github.com/AbirHasan2005)
-- [satyanand](https://github.com/satyanandatripathi)
 
-Love u guys😉💗
+
+
+
+
+
+
